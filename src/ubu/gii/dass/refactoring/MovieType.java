@@ -13,4 +13,5 @@ public abstract class MovieType {
 	public abstract int getType();
 
 	public abstract double getCharge(Rental rental);
+	
 }
